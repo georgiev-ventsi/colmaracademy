@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+}
+
+header{
+    padding: 0px 24px 0px 24px;
+    height: 64px;
+    background-color: white;
+    font-size: 32px;
+    color: gray;
+    line-height: 64px;
+}
+
+#header-span{
+    color: black;
+}
+
+.div-left{
+    float: left;
+    width: 45%;
+}
+
+.div-right{
+    float: right;
+    width: 45%;
+}
+
+nav ul li{
+    display: block;
+    list-style-type: none;
+    color: black;
+    margin-left: 16px;
+}
